@@ -1,3 +1,3 @@
 <div align="center">
-<img src="./arrr.jpg alt="image" />
+<img src="arrr.jpg />
 <h1> aref mousavi </h1>
